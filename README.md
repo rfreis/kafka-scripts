@@ -32,7 +32,7 @@ docker exec -it kafka-scripts_scripts_1 python /app/producer.py
 
 ## References
 
-The following references was used to write these routines.
+The following references was used to set these routines up.
 
 * [kafka-stack-docker-compose](https://github.com/simplesteph/kafka-stack-docker-compose)
 * [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python)
