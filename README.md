@@ -5,7 +5,7 @@ After reading a few articles, I choose to use confluent python plugin due to its
 
 ## Prerequisites
 
-The only pre-requisites will be only docker and docker-compose
+If you have docker and docker-compose, you're ready to go.
 
 * docker
 * docker-compose
